@@ -9,7 +9,7 @@
     </head>
     <body>
         <div class="menu-bar">
-            <a href="/Portafolio_Final/index.html"><div class="menu-op"><p>INICIO</p></div></a>
+            <a href="/Portafolio_Final/index.php"><div class="menu-op"><p>INICIO</p></div></a>
             <a href="/Portafolio_Final/web_vip/html_vip/introHTML_vip.php"><div class="menu-op"><p>HTML</p></div></a>
             <a href="/Portafolio_Final/web_vip/css_vip/introCSS_vip.php"><div class="menu-op"><p>CSS</p></div></a>
             <a href="/Portafolio_Final/web_vip/js_vip/introJS_vip.php"><div class="menu-op"><p>JS</p></div></a>
