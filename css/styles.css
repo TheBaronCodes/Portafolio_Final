@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+body{
+    margin:0px;
+    padding:0px;
+    background:#041b23;
+}
+a{
+    text-decoration:none;
+}
+.h1{
+    font-family:Henny Penny;
+    width:100%;
+    text-align:center;
+    margin-top:50px;
+    font-weight:700;
+    font-size:60px;
+    color:#8a6342;
+    transition:.5s;
+}
+h1:hover{
+    color:#5a8480;
+    letter-spacing:4px;
+    transition:.5s;
+}
+.box-menu{
+    width:35%;
+    height:300px;
+    border:5px solid #48393e;
+    border-radius:15px;
+    background:#132934;
+    margin-left:10%;
+    float:left;
+    transition:1s;
+}
+.box-menu:hover{
+    background:#235055;
+    border-color:#5a8482;
+    transition:1s;
+}
+.link-to{
+    width:100%;
+    height:100%;
+    border-radius:11px;
+}
+.title-op{
+    width:100%;
+    text-align:center;
+    position:relative;
+    color:#49383e;
+    font-size:40px;
+    font-weight:700;
+    margin-top:10px;
+    transition:1s;
+}
+.box-menu:hover .title-op{
+    color:#5a8482;
+    letter-spacing:4px;
+    transition:1s;
+}
+
+/* CSS CURSOS */
+
+.menu-bar{
+    width:100%;
+    height:50px;
+    margin-top:5px;
+}
+.menu-op{
+    width:16.1%;
+    height:100%;
+    background:#49383e;
+    border:2px solid #8e6144;
+    margin-right:5px;
+    float:left;
+}
+.menu-op p{
+    width:100%;
+    height:100%;
+    text-align:center;
+    color:#041b23;
+    font-size:24px;
+    font-weight:900;
+    margin-top:10px;
+    transition:1s;
+}
+.menu-op:hover p{
+    color:#588582;
+    letter-spacing:4px;
+    transition:1s;
+}
+
+/* CSS CURSOS GRATIS */
+
+.menu-html{
+    width:16.1%;
+    height:600px;
+    margin-top:30px;
+    position:absolute;
+    border:2px solid #8d6242;
+    float:left;
+}
+.html-op{
+    width:100%;
+    height:5%;
+    background:#588582;
+    border-bottom:2px solid #8d6242;
+}
+.html-op p{
+    width:100%;
+    text-align:center;
+    color:#041b23;
+    font-size:16px;
+    font-weight:900;
+    margin-top:0px;
+    padding-top:4px;
+}
+.txt-box{
+    width:80%;
+    height:600px;
+    border:2px solid #8d6242;
+    position:absolute;
+    margin-top:30px;
+    overflow:auto;
+    margin-left:18%;
+    background:gray;
+}
+.txt-box p{
+    overflow:auto;
+    color:#041b23;
+    font-size:16px;
+    text-align:justify;
+}
+
+/* CURSO AVANZADO */
+.caja-ca{
+    width:500px;
+    height:500px;
+    background:#5b8883;
+    margin-left:550px;
+    border-radius:10px;
+    border:5px solid #48393e;
+}
+.lbl_in, .lbl_in2{
+    width:400px;
+    margin-left:50px;
+    margin-top:50px;
+}
+.lbl_in label, .lbl_in2 label{
+    font-size:24px;
+    font-weight:900;
+    color:#48393e;
+}
+.lbl_in input{
+    margin-left:100px;
+    width:200px;
+}
+.lbl_in2 input{
+   margin-left:64px; 
+   width:200px;
+}
+.btn_login{
+    width:100px;
+    height:30px;
+    margin-top:30px;
+    margin-left:265px;
+}
+.btn_login button{
+    width:150px;
+    height:30px;
+    border:2px solid white;
+    border-radius:10px;
+    background:#5a8482;
+    font-weight:900;
+    transition:1s;
+}
+.btn_login button:hover{
+    transition:1s;
+    color:#49383e;
+    background:#8d6144;
+}
+.txt_contacto{
+    width:480px;
+    height:230px;
+    margin-left:10px;
+    margin-top:40px;
+}
+.txt_contacto p{
+    text-align:justify;
+    font-size:18px;
+}
