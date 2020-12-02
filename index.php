@@ -10,11 +10,11 @@
         <h1 class="h1">Learning Capsule</h1>
         
         <div class="box-menu">
-            <a href="/Portafolio_Final/web_gratis/html_gratis/introduccionHTML.php"><img src="images/progra1.jpg" class="link-to"></a>
+            <a href="/web_gratis/html_gratis/introduccionHTML.php"><img src="images/progra1.jpg" class="link-to"></a>
             <div class="title-op">Cursos Gratis</div>
         </div>
         <div class="box-menu">
-            <a href="/Portafolio_Final/registro.php"><img src="images/progra2.jpg" class="link-to"></a>
+            <a href="/registro.php"><img src="images/progra2.jpg" class="link-to"></a>
             <div class="title-op">Cursos Avanzados</div>
         </div>
     </body>
